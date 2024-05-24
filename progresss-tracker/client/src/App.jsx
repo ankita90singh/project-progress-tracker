@@ -40,6 +40,7 @@ function App() {
  
 
   return (
+    
     <main className='w-full min-h-screen bg-zinc-100 '> 
     <Routes>
       <Route element= {<Layout />}>
